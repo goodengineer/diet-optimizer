@@ -3,6 +3,8 @@
   "fat": 33,
   "protein": 25,
   "carbs": 1.3,
+  "calcium": 720,
   "potassium": 98,
-  "calcium": 720
+  "zinc": 3.12,
+  "vitamin_d": 0.6
 }
