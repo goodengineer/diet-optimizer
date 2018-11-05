@@ -3,7 +3,16 @@
   "fat",
   "protein",
   "carbs",
-  "potassium",
   "calcium",
-  "magnesium"
+  "iron",
+  "magnesium",
+  "phosphorus",
+  "potassium",
+  "zinc",
+  "vitamin_a",
+  "vitamin_c",
+  "vitamin_d",
+  "vitamin_e",
+  "vitamin_k",
+  "vitamin_b12"
 ]

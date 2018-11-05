@@ -1,4 +1,14 @@
 {
   "calcium": {"min": 1000},
-  "potassium": {"min": 3000}
+  "iron": {"min": 15},
+  "magnesium": {"min": 350},
+  "phosphorus": {"min": 1000},
+  "potassium": {"min": 3000},
+  "zinc": {"min": 15},
+  "vitamin_a": {"min": 600},
+  "vitamin_c": {"min": 75},
+  "vitamin_d": {"min": 10},
+  "vitamin_e": {"min": 10},
+  "vitamin_k": {"min": 80},
+  "vitamin_b12": {"min": 6}
 }
